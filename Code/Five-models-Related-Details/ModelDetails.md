@@ -18,6 +18,14 @@ FFPE++
 
 代码仓库： https://github.com/DeepMIALab/FFPEPlus.
 
+UNIT:
+
+代码仓库：https://github.com/mingyuliutw/unit
+
+MUNIT:
+
+代码仓库：https://github.com/nvlabs/MUNIT
+
 所有模型均采用以下统一训练设置：
 
 - 框架：PyTorch 1.12.1
